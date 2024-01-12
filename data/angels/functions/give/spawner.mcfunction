@@ -1,0 +1,1 @@
+give @p command_block{BlockEntityTag:{auto:1,Command:'/setblock ~ ~0 ~ minecraft:spawner{SpawnData:{entity:{id:zombie,CustomName:\'[{"text":"weeping_angel_spawner"}]\',Invulnerable:1b,NoAI:1b,NoGravity:1b,Silent:1b}}} replace'},display:{Name:'[{"text":"Angel Spawner","italic":false}]'}} 1

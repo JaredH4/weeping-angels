@@ -1,0 +1,1 @@
+execute as @a at @s anchored eyes facing entity @e[tag=angel] eyes anchored feet positioned ^ ^ ^1 rotated as @s positioned ^ ^ ^-1 if entity @s[distance=..0.6] run tag @e[tag=angel] add froze

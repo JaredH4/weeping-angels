@@ -1,0 +1,1 @@
+give @s vex_spawn_egg{EntityTag:{id:zombie,CustomName:'[{"text":"weeping_angel_spawner"}]',Invulnerable:1b,NoAI:1b},display:{Name:'[{"text":"Weeping Angel Spawn Egg","italic":false}]'}} 1
